@@ -1,1 +1,5 @@
 # tBolg-app
+
+Tech Stack:
+
+    
